@@ -1,2 +1,2 @@
-classic chemistry textbooks in English and Chinese
+classic textbooks with logic learning order in English and Chinese
 share and backup
